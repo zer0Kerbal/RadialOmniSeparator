@@ -1,0 +1,29 @@
+spec_version: v1.4
+identifier: RadialOmniSeparator
+name: RadialOmniSeparator! (HWLN)
+abstract: RadialOmniSeparator themed parts mod for Kerbal Space Program.
+$kref: '#/ckan/spacedock/2875'
+$vref: '#/ckan/ksp-avc/RadialOmniSeparator.version'
+license: CC-BY-NC-4.0
+tags:
+  - parts
+  - uncrewed
+depends:
+  - name: none
+recommends:
+  - name: JackOLantern
+  - name: Kaboom
+  - name: Foundations
+  - name: ModuleManager
+suggests:
+  - name: KerbalChangelog
+  - name: TweakScale
+  - name: SimpleLogistics
+  - name: SimpleConstruction
+  - name: SimpleLife
+supports:
+  - name: KerbalChangelog
+  - name: TweakScale
+install:
+  - find: RadialOmniSeparator
+    install_to: GameData
