@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/RadialOmniSeparator/*",
+        "GameData/nli2work/RadialOmniSeparator/*",
         "source/*",
         "**/@thumbs/**",
         "**/Agencies/**",
