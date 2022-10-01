@@ -13,7 +13,7 @@ updated: 15 Sep 2022 -->
 
 # Radial Omni Separator (ROS)
 
-Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns not included.
+Radial Omni Separator parts pack for Kerbal Space Program.
 
 
 
@@ -22,28 +22,6 @@ Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns not inclu
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/HeroLogo_1920x1920.png" alt="RadialOmniSeparator Hero" width="50%" height="50%">
-
-### Features
-
-* This mod adds twenty RadialOmniSeparator themed parts
-  * three sizes of candle (LuniticAeronotics)
-  * themed fuel line
-  * themed strut connector
-  * antenna (nli2work)
-  * hats (if KIS installed, else just animated structural parts) (nli2work)
-  * night light (nli2work)
-  * six sizes of Radial Omni Separator (ROS) - probably will move to another new parts pack TBD (nohark)
-  * plaque (KIS or no KIS) (ColbaltWolf)
-  * KerbalKoffin (nohark)
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/hero-03.png" alt="RadialOmniSeparator Hero" width="50%" height="50%">
-
-##### *Jack-O'Lanterns not included*
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/Jack-OLanterns-not-included.png" alt="RadialOmniSeparator Hero" width="50%" height="50%" >
-
-##### *Ah, Mission Control, there's a baby Kraken on my helmet and it's making strange noises*
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/Ah%2C%20Mission%20Control%20-%20there's%20a%20kraken%20on%20my%20helmet...png" alt="RadialOmniSeparator Hero" width="25%" height="25%">
 
 ### See more
 
@@ -84,31 +62,15 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
-### Recommends  
-
-* [Jack-O'Lantern (JACK)][JACK]
-* [Eterno-Rest 2000 (REST)][REST]
-* [Radial Omni Separator (ROS)][HLWN]
-* [KaboOom! (BOOM)][BOOM] *another way to not go to space today*
-* [Kerbal Inventory System (KIS)][kis]
-* [Kerbal Attachment System (KAS)][kas]
-
 ### Suggests
 
+* [Jack-O'Lantern (JACK)][JACK]
+* [Hallowe`en (HLWN)][HLWN]
+* [Eterno-Rest 2000 (REST)][REST]
+* [KaboOom! (BOOM)][BOOM] *another way to not go to space today*
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-* [Foundations (FND)][FND] ***Helps prevent ground constructions from floating away :)***
-* [Stack Inline Lights (SIL)][SIL]
-* [Stack Inline Lights Patches (SILP)][SILP]
-* [Transparent Command Pods (PODS)][PODS]
 * [TweakScale (TWK)][twk]
-
-### Supports
-
-* Either [^3]
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
-* [JSI Advanced Transparent Pods][atp]
 
 ### Tags
 
@@ -123,11 +85,8 @@ parts, config, flags
 
 ### Credits and Special Thanks
 
+* ['nli2work`][nli2work] - for these glorius parts!
 * see [Attribution.md][MOD:attr] for more comprehensive list
-  * ['nli2work`][nli2work] - Configs, models, and textures
-  * ['CobaltWolf`][cobaltwolf] - Configs, models, and textures
-  * ['ximrm`][ximrm] - Configs, models, and textures
-  * ['Tuareg`][taureg] - Configs, models, and textures
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -140,7 +99,6 @@ parts, config, flags
 >
 > ***All bundled mods are distributed under their own licenses***  
 > ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***
-> [![License][LIC:spec:shd]][LIC:spec:url]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
@@ -180,14 +138,11 @@ parts, config, flags
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Original Thread"
 
 <!--- license provenance -->
-[LIC:0:url]: https://creativecommons.org/licenses/by-nc/4.0/ "CC-BY-NC-4.0"
-[LIC:0:shd]: https://img.shields.io/badge/license-CC--BY--NC--4.0-EF9421?style=plastic&logo=creativecommons&labelColor=black&logoColor=EF9421 "CC-BY-NC-4.0"
+[LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
+[LIC:0:shd]: https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-EF9421?style=plastic&logo=creativecommons&labelColor=black&logoColor=EF9421 "CC-BY-NC-SA-4.0"
 
-[LIC:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
-[LIC:spec:shd]: https://img.shields.io/badge/license-CC--SA--BY--NC--4.0-ef9421?style=plastic&labelColor=black&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
-
-[LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
-[LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/json/license.json
+[LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
+[LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/json/license.json "CC-BY-NC-SA-4.0"
 
 <!--- CKAN -->
 [ckan:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
@@ -201,7 +156,7 @@ parts, config, flags
 [GITHUB:url]: https://github.com/zer0Kerbal/RadialOmniSeparator/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/2875 "SpaceDock"
+[SPCDCK:url]: http://spacedock.info/mod/3129 "SpaceDock"
 [SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
 <!-- Kerbal Space Program -->
@@ -210,22 +165,13 @@ parts, config, flags
 
 <!-- links to add-ons/mods -->
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "KaboOom!"
-[FND]: https://forum.kerbalspaceprogram.com/index.php?/topic/51430-*/ "Foundations (FND)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
-[PODS]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Command Pods"
-[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stack Inline Lights"
-[SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/ "Stack Inline Lights Patches"
 
 [HLWN]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Hallowe'en"
 [JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-/* "Jack-O'Lantern"
 [REST]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-/* "Eterno-Rest 2000"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
