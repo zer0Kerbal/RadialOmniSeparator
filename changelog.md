@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Radial Omni Separator (ROS)                                                 |
+| modName    | Radial Omni Separator (ROS)                                       |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC BY-SA 4.0                                                      |
+| license    | CC BY-NC-SA 4.0                                                   |
 | author     | zer0Kerbal                                                        |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/) |
-| github     | (https://github.com/zer0Kerbal/RadialOmniSeparator)                         |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RadialOmniSeparator)            |
-| spacedock  | (https://spacedock.info/mod/2875)                                 |
-| ckan       | RadialOmniSeparator                                                         |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/) |
+| github     | (https://github.com/zer0Kerbal/RadialOmniSeparator)               |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RadialOmniSeparator)  |
+| spacedock  | (https://spacedock.info/mod/3129)                                 |
+| ckan       | RadialOmniSeparator                                               |
 
 ## Version 1.0.0.0-release `<Dial #999 for Hallow'Eve>` edition
 
