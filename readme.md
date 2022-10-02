@@ -17,7 +17,7 @@ Radial Omni Separator parts pack for Kerbal Space Program.
 
 
 
-## By [`zer0Kerbal`][zer0Kerbal]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`nli2work`][nli2work]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -79,7 +79,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Tags
 
-parts, config, flags
+parts
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
@@ -90,7 +90,7 @@ parts, config, flags
 
 ### Credits and Special Thanks
 
-* ['nli2work`][nli2work] - for these glorius parts!
+* ['nli2work`][nli2work] - for these glorious parts!
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -107,7 +107,7 @@ parts, config, flags
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
-#### Original (0) - Author: [`zer0Kerbal`][zer0Kerbal]
+#### Original (0) - Author: [`nli2work`][nli2work]
 
 > Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [GitHub][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url]
