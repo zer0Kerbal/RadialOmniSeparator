@@ -2,80 +2,77 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- Marketing.md v1.0.1.0
+<!-- Marketing.md v1.0.1.1
 Radial Omni Separator (ROS)
 created: 13 Apr 2022
-updated: 15 May 2022
+updated: 30 Sep 2022
 
 based upon work by LisiasT -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# Radial Omni Separator (ROS)
+# Radial Omni Separator (ROS) [WIP]
 
 [Home](./index.md)
 
 ## Marketing Slicks
 
 * Table of Contents)
-  * [Resource Flow](#Resource-Flow)
-  * [Mining Ore](#Mining-Ore)
-  * [Refining Ore to Metal](#Refining-Ore-to-Metal)
-  * [Printing Rocketparts from Metal](#Printing-Rocketparts-from-Metal)
-  * [Building Rockets](#Building-Rockets)
-  * [Finalize build](#Finalize-build)
+  * [Images of parts](#part-images)
+  * [Your Image(s) Here](#user-0)
+  * [Your Image(s) Here](#user-1)
+  * [Your Image(s) Here](#user-2)
+  * [Your Image(s) Here](#user-3)
+  * [Your Image(s) Here](#user-4)
 
-### Resource Flow
+### Part Images
 
-![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
-[top](#Table-of-Contents)
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/%40thumbs/radialomniseparator-0375_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> 
+[top](#table-of-contents)
 
-### Mining Ore
+### User 0
 
-First mine the ore *(after you find it)*
+your image(s) here
 
-![Mining Ore][IMG:hero:2a]
-[top](#Table-of-Contents)
+![user image][USER:IMG:0]
+[top](#table-of-contents)
 
-### Refining Ore to Metal
+### User 1
 
-Then refine the ore into metal
+your image(s) here
 
-![Refining Ore to Metal][IMG:hero:2b]
-[top](#Table-of-Contents)
+![user image][USER:IMG:1]
+[top](#table-of-contents)
 
-### Printing Rocketparts from Metal
+### User 2
 
-Then using the MPL Science lab, print Rocket Parts
+your image(s) here
 
-![Printing Rocketparts from Metal][IMG:hero:2c]
-[top](#Table-of-Contents)
+![user image][USER:IMG:2]
+[top](#table-of-contents)
 
-### Building Rockets
+### User 3
 
-Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
+your image(s) here
 
-![Building Rockets][IMG:hero:2d]
-[top](#Table-of-Contents)
+![user image][USER:IMG:3]
+[top](#table-of-contents)
 
-### Finalize build
+### User 4
 
-Finalize your build and load up the resources, and
+your image(s) here
 
-*PROFIT!*
+![user image][USER:IMG:4]
+[top](#table-of-contents)
 
-![Finalize build!][IMG:hero:2e]
-[top](#Table-of-Contents))
-
-[IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
-[IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
-[IMG:hero:2c]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
-[IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
-[IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
+[USER:IMG:0]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
+[USER:IMG:1]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
+[USER:IMG:2]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
+[USER:IMG:3]: https://i.imgur.com/6v9gwma.png "Building Rockets"
+[USER:IMG:4]: https://i.imgur.com/nmq46HA.png "Finalize build!"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->

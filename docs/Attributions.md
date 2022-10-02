@@ -24,15 +24,14 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > DaMichel</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="DaMichel Ltd (KM)"> the DaMichel series of parts addons!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/"><img border="0" alt="Bezzier" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Bezzier</a> for picking up where DaMichel left off (Color Curves)</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/" alt="nli2work"> the nli2work series of parts addons!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
 ### Flag(s)
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="nli2work" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > nli2work</a></li>
 </ul>
 
 ### Agency
@@ -68,9 +67,10 @@ updated: 03 Jun 2022
 </ul>
 
 <!-- links -->
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd Forum Thread"
+[PNP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209965-*/ "NohArk's Pick'n'Pull"
+[ROS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/ "Radial Omni Separator (ROS)"
 
-[damichel]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "damichel"
+[nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "nli2work"
 [bezzier]: https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/ "Bezzier"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
