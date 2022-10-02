@@ -2,13 +2,11 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
-<MOD-NAME>
+Radial Omni Separator (ROS)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
@@ -62,56 +60,56 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ### Asset Updates
 
-* [x] create Assets/ folder
-* [x] convert from mesh to MODEL
-* [x] rename
-  * [x] models to unique names
-  * [x] textures to unique names
-* [x] update
-  * [x] model pointers (.png et al to .dds)
-  * [x] model texture pointers to new names
-* [x] relocate assets to Assets/
-* [x] eliminate
-  * [x] duplicate textures
-  * [x] duplicate models
-* [x] relocate part.cfg to Parts/
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
   * closes #8 - Part Asset Updates
 
 ### docs/ 1.0.0.0
 
 * Update
 * Add
-  * [x] [`_config.yml`]
-  * [x] [Attribution.md] v1.0.7.1
-  * [x] [ManualInstallation.md] v1.1.8.0
-  * [x] [404.md] v1.0.3.2
-  * [x] [LegalMumboJumbo.md] v1.0.5.1
-  * [x] [Localizations.md] v1.1.7.0
-  * [x] [Marketing.md] v1.0.1.0
-  * [x] [Notices.md] v1.0.1.0
-  * [x] [Disclaimer.md] v1.0.1.0
-  * [x] [PartsCatalog.md] v1.1.4.1
-  * [x] [Why.md] v1.1.0.0
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Disclaimer.md] v1.0.1.0
+  * [PartsCatalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
   * closes #5 - Create GitHub Pages
 
 ### Create 1.0.0.0
 
-* [ ] Hero.png
+* Hero.png
   * closes #6 - Create HeroLogo.png
 
 ### Localization 1.0.0.0
 
 * Create
-  * [x] Localization/
-    * [x] <en-us.cfg>
-    * [x] [readme.md] v2.1.2.0
-    * [x] [quickstart.md] v1.0.1.1
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
   * closes #7 - Create Localization directory and contents
   * updates #10 - Localization - Master
   * closes #11 - English <us-en.cfg>
 * Add localized tags to parts
-  * [x] [RadialOmniSeparator.cfg] v1.0.0.0
-  * [x] adds localized tags to parts
+  * [RadialOmniSeparator.cfg] v1.0.0.0
+  * adds localized tags to parts
 
 ### Status 1.0.0.0
 
