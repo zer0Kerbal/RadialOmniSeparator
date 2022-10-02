@@ -26,56 +26,52 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `RadialOmniSeparator` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `nli2work` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/RadialOmniSeparator`
-* Extract the package's `RadialOmniSeparator/` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/RadialOmniSeparator` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/nli2work/RadialOmniSeparator`
+* Extract the package's `nli2work` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/nli2work` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/RadialOmniSeparator`
+  * you should end up with `<KSP_ROOT>/GameData/nli2work/RadialOmniSeparator`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/RadialOmniSeparator`
+  * Delete `<KSP_ROOT>/GameData/nli2work/RadialOmniSeparator`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/RadialOmniSeparator`
+  * you should end up with `<KSP_ROOT>/GameData/nli2work/RadialOmniSeparator`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [RadialOmniSeparator]
-      + [Assets]
-        ...
-      + [Compatibility]
-        ...
-      + [Config]
-        ...
-      + [Flags]
-        ...
-      + [FX]
-        ...
-      + [Localization]
-        ...
-      + [Parts]
-        ...
-      + [Sounds]
-        ...
-      * #.#.#.#.htm
-      * Attributions.htm
-      * changelog.md
-      * License.txt
-        ManualInstallation.htm
-      * readme.htm
-      * RadialOmniSeparator.version
-    ...
+    + [nli2work]
+      + [RadialOmniSeparator]
+        + [Assets]
+          ...
+        + [Compatibility]
+          ...
+        + [Config]
+          ...
+        + [Localization]
+          ...
+        + [Parts]
+          ...
+        * #.#.#.#.htm
+        * Attributions.htm
+        * CC-BY-NC-SA-4.0.txt
+        * changelog.md
+          ManualInstallation.htm
+        * readme.htm
+        * RadialOmniSeparator.version
+          ...
+      ...
     * ModuleManager.ConfigCache
   * KSP.log
   ...
