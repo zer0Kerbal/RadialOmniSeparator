@@ -21,9 +21,9 @@ based upon work by LisiasT -->
 
 ## Marketing Slicks
 
-* Table of Contents)
+* Table of Contents
   * [Images of parts](#part-images)
-  * [Your Image(s) Here](#user-0)
+  * [Just the stack Ma'am](#user-0)
   * [Your Image(s) Here](#user-1)
   * [Your Image(s) Here](#user-2)
   * [Your Image(s) Here](#user-3)
@@ -32,6 +32,7 @@ based upon work by LisiasT -->
 ### Part Images
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/%40thumbs/radialomniseparator-0375_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> 
+
 [top](#table-of-contents)
 
 ### User 0
@@ -40,9 +41,7 @@ zer0Kerbal
 
 *Just the stack Ma'am*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/hero-01.png" alt="Just the stack Ma'am" width="25%" height="25%" /> 
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/hero-02.png" alt="Just the stack Ma'am" width="25%" height="25%" /> 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/hero-01.png" alt="Just the stack Ma'am" width="50%" height="50%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/hero-02.png" alt="Just the stack Ma'am" width="50%" height="50%" /> 
 
 ![user image][USER:IMG:0]
 [top](#table-of-contents)
