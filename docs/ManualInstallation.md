@@ -16,7 +16,7 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-Hallowe'en themed parts pack for Kerbal Space Program. Jack-O'Lanterns not included.
+Radial Omni Separator parts pack for Kerbal Space Program.
 
 ## Installation Instructions
 
