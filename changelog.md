@@ -10,9 +10,9 @@
 | spacedock  | (https://spacedock.info/mod/3129)                                 |
 | ckan       | RadialOmniSeparator                                               |
 
-## Version 1.0.0.0-release `<Dial #999 for Hallow'Eve>` edition
+## Version 1.0.0.0-release - `<Thank you nli2work>`
 
-* 25 Oct 2021
+* 01 Oct 2021
 * Released for Kerbal Space Program 1.12.2
 
 * <b style="color:orange">zer0Kerbal wishes you a Happy and Safe RadialOmniSeparator!</b>
