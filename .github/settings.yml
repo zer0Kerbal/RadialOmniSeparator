@@ -17,7 +17,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: RadialOmniSeparator,nliwork,RadialOmniSeparator-theme,all-hallowed-eve,koffin,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk
+  topics: separator,ros,nliwork,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk
 
 # Labels: define labels for Issues and Pull Requests
 labels:
