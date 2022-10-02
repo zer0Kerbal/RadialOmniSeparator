@@ -36,7 +36,13 @@ based upon work by LisiasT -->
 
 ### User 0
 
-your image(s) here
+zer0Kerbal
+
+*Just the stack Ma'am*
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/hero-01.png" alt="Just the stack Ma'am" width="25%" height="25%" /> 
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/hero-02.png" alt="Just the stack Ma'am" width="25%" height="25%" /> 
 
 ![user image][USER:IMG:0]
 [top](#table-of-contents)
