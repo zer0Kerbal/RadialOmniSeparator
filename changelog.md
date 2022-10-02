@@ -15,8 +15,12 @@
 * 01 Oct 2021
 * Released for Kerbal Space Program 1.12.2
 
-* <b style="color:orange">zer0Kerbal wishes you a Happy and Safe RadialOmniSeparator!</b>
-* <b style="color:red">DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</b>
+### Summary 1.0.0.0
+
+* split out of [Hallowe'en](https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/)
+* general linting and polishing
+
+### Changes 1.0.0.0
 
 * <RadialOmniSeparator.version>
   * update
