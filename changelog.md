@@ -18,135 +18,93 @@
 ### Summary 1.0.0.0
 
 * split out of [Hallowe'en](https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/)
+* can now use `ros` to search for parts in editor
 * general linting and polishing
 
-### Changes 1.0.0.0
+### Update 1.0.0.0
+
+* Parts
+  * [angularDrag] 1 --> 2
+  * [bulkheadProfiles] add ' ,size...'
+  * linting and organization organization
+  * some 1000 git sandpaper applied (pun intended)
+
+### Compatibility 1.0.0.0
+
+* Update
+  * <TweakScale.cfg> v1.0.0.0
+
+### Config 1.0.0.0
+
+* Add
+  * <RadialOmniSeparator.cfg> v1.0.0.0
+  * closes #9 - Create <RadialOmniSeparator.cfg>
+
+### Documentation 1.0.0.0
 
 * <RadialOmniSeparator.version>
   * update
   * remove: [KSP_VERSION_MAX]
 
----
+### Asset Updates
 
-## Version = 0.9.9.9-prerelease `<Dial #999 for Hallow'Eve>` edition
+* [x] create Assets/ folder
+* [x] convert from mesh to MODEL
+* [x] rename
+  * [x] models to unique names
+  * [x] textures to unique names
+* [x] update
+  * [x] model pointers (.png et al to .dds)
+  * [x] model texture pointers to new names
+* [x] relocate assets to Assets/
+* [x] eliminate
+  * [x] duplicate textures
+  * [x] duplicate models
+* [x] relocate part.cfg to Parts/
+  * closes #8 - Part Asset Updates
 
-* 21 Oct 2021
-* Released for Kerbal Space Program 1.12.2
+### docs/ 1.0.0.0
 
-* `>>-- creation by zer0Kerbal --<<`
-* <b style="color:orange">zer0Kerbal wishes you a Happy and Safe RadialOmniSeparator!</b>
-* <b style="color:red">DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</b>
+* Update
+* Add
+  * [x] [`_config.yml`]
+  * [x] [Attribution.md] v1.0.7.1
+  * [x] [ManualInstallation.md] v1.1.8.0
+  * [x] [404.md] v1.0.3.2
+  * [x] [LegalMumboJumbo.md] v1.0.5.1
+  * [x] [Localizations.md] v1.1.7.0
+  * [x] [Marketing.md] v1.0.1.0
+  * [x] [Notices.md] v1.0.1.0
+  * [x] [Disclaimer.md] v1.0.1.0
+  * [x] [PartsCatalog.md] v1.1.4.1
+  * [x] [Why.md] v1.1.0.0
+  * closes #5 - Create GitHub Pages
 
-### Summary for 0.9.9.9
+### Create 1.0.0.0
 
-* Localization [en-us.cfg]
-* Dragcubes
-* Thumbnails
-* [ModuleCargoPart]
+* [ ] Hero.png
+  * closes #6 - Create HeroLogo.png
 
-### Localization 0.9.9.9
+### Localization 1.0.0.0
 
-* Added
-  * .this/Localization/
-  * localization (en-us.cfg)
-  * readme.md and quickstart.me
+* Create
+  * [x] Localization/
+    * [x] <en-us.cfg>
+    * [x] [readme.md] v2.1.2.0
+    * [x] [quickstart.md] v1.0.1.1
+  * closes #7 - Create Localization directory and contents
+  * updates #10 - Localization - Master
+  * closes #11 - English <us-en.cfg>
+* Add localized tags to parts
+  * [x] [RadialOmniSeparator.cfg] v1.0.0.0
+  * [x] adds localized tags to parts
 
-### Created 0.9.9.9
-
-* Back end  
-  * local file structure
-  * automation
-* Online
-  * GitHub repo
-  * CurseForge
-  * SpaceDock
-  * Forum Thread
-  * updated CKAN/NetKAN
-* Documentation
-  * attribution.txt
-  * readme
-  * releaseNotes
-  * License
-  * Changelog
-  * .version
-
-### Status 0.9.9.9
+### Status 1.0.0.0
 
 * Issues
-  * closes #24 - 0.9.9.9-prerelease
-  * closes #25 - 1.0.0.0-release
-  * closes #28 - Create/Update documentation
-  * closes #29 - Create/Update Legal MumboJumbo
-  * closes #31 - Create/Update Web/Social Media
-* Features/Bug
-  * closes #21 - en-us.cfg should be complete 
-  * closes #23 - Parts - should now be complete
-  * closes #26 - completes 0.9.9.1-ßeta-1
-  * closes #27 - finishes 0.9.9.0-ßeta-0
-
----
-
-## Version 0.9.9.1-ßeta-2 `<ßeta II>` edition
-
-* 08 Oct 2019
-* Released for Kerbal Space Program 1.12.2
-
-### ßeta 2
-
-* open ßeta on CurseForge
-
----
-
-## Version 0.9.9.1-ßeta-1 `<ßeta I>` edition
-
-* 05 Oct 2019
-* Released for Kerbal Space Program 1.12.2
-
-### closed ßeta
-
-### New for 0.9.9.1
-
-* Parts (new to this parts)
-  * three sizes of candle
-  * RadialOmniSeparator themed fuel line
-  * RadialOmniSeparator themed strut connector
-  * Kraken Commms
-  * Kraken Hats (if KIS installed, else just animated baby Krakens)
-  * RadialOmniSeparator Night Light
-  * six sizes of ROS - will probably move to another new parts pack TBD
-  * fallen Kerbonaut plaque (KIS or no KIS)
-  * KerbalKoffin by nohark
-
-### Added 0.9.9.1
-
-* [KerbalInventorySystem.cfg]
-* [TweakScale.cfg]
-* [ActiveTextureManager.cfg]
-* Changelog.cfg
-* explosionPotention
-* tags
-* Readme.md
-* .version file
-* ControlPoint(s)
-* SASServiceLevel
-* ModuleDataTransmitter (5000)
-
-### Updated 0.9.9.1
-
-* part.cfgs
-* ModuleReactionWheel
-* changed from ModuleLight to ModuleColorChanger
-* adjusted ElectricChange per size
-* converted from PNG to DDS (DT5)
-
-### Moved 0.9.9.1
-
-* moved patch(es) into RadialOmniSeparator/Compatibility
-* moved sounds into RadialOmniSeparator/Sounds
-* moved FX into RadialOmniSeparator/FX
-* moved flags into RadialOmniSeparator/Flags
-* moved parts from into appropriate categories
-* moved Assets into RadialOmniSeparator/Assets and adjusted [model]
-* moved parts into RadialOmniSeparator/parts
+  * closes #1 - Radial Omni Separator (ROS) 1.0.0.0-release `<Thank you nli2work>` edition
+  * closes #2 - 1.0.0.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.0.0.0 Create Documentation
+  * closes #4 - 1.0.0.0 Create Social Media Presence
 
 ---
