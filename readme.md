@@ -23,6 +23,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/img/HeroLogo_1920x1920.png" alt="RadialOmniSeparator Hero" width="50%" height="50%">
 
+### Provides
+
+* six sizes of radial separators
+
 ### See more
 
 >* [GitHub Pages][MOD:pages]
