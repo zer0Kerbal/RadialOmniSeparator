@@ -10,10 +10,25 @@
 | spacedock  | (https://spacedock.info/mod/3129)                                 |
 | ckan       | RadialOmniSeparator                                               |
 
+## Version 1.0.1.0-release - `<EDITION>`
+
+* 01 Oct 2021
+* Released for Kerbal Space Program 1.12.3
+
+### Summary 1.0.1.0
+
+### Update 1.0.1.0
+
+### Status 1.0.1.0
+
+* Issues
+
+---
+
 ## Version 1.0.0.0-release - `<Thank you nli2work>`
 
 * 01 Oct 2021
-* Released for Kerbal Space Program 1.12.2
+* Released for Kerbal Space Program 1.12.3
 
 ### Summary 1.0.0.0
 
