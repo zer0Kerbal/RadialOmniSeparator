@@ -54,8 +54,11 @@ jobs:
           :zap:
           
           We (@zer0Kerbal) really do appreciate your contributing! :clap:
+            
+          If you are fixing a bug, please reference the issue number in the description.
+          If you are implementing a feature request, please check with the maintainers that the feature will be accepted first.
           
-          :vibration_mode::eyes:Please either watch this repositiory for updates.
+          :vibration_mode::eyes:Please watch and :star: this repositiory for updates.
           
           All contributions under this repositiory's license, unless specific allowances have been made in advance with @zer0Kerbal.
           
