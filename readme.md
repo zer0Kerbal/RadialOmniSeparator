@@ -13,7 +13,7 @@ updated: 15 Sep 2022 -->
 
 # Radial Omni Separator (ROS)
 
-Radial Omni Separator parts pack for Kerbal Space Program.
+Radial Separator parts pack for Kerbal Space Program.
 
 
 
@@ -47,6 +47,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
+>* ![Italiano][IT] Italian (Italiano) - thank you [MattNot](https://github.com/MattNot)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
