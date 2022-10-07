@@ -38,6 +38,7 @@
   * closes #37 - 1.0.0.1 Verify Legal Mumbo Jumbo
   * closes #38 - 1.0.0.1 Update Documentation
   * closes #39 - 1.0.0.1 Update Social Media
+
 ---
 
 ## Version 1.0.0.0-release - `<Thank you nli2work>`
