@@ -10,9 +10,9 @@ name: Create markdown indexes
 # Controls when the action will run. 
 on:
   push:
-    branches: [ master/docs ]
+    branches: [ master ]
   pull_request:
-    branches: [ master/docs ]
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
