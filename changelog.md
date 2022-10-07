@@ -10,19 +10,34 @@
 | spacedock  | (https://spacedock.info/mod/3129)                                 |
 | ckan       | RadialOmniSeparator                                               |
 
-## Version 1.0.1.0-release - `<EDITION>`
+## Version 1.0.0.1-release - `<MattNot Separatore Radiale Omnia>`
 
-* 01 Oct 2021
+* 05 Oct 2021
 * Released for Kerbal Space Program 1.12.3
 
-### Summary 1.0.1.0
+### Summary 1.0.0.1
 
-### Update 1.0.1.0
+<ul>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - thank you <a ref="https://github.com/MattNot"> MattNot</a></li>
+</ul>
 
-### Status 1.0.1.0
+### Localization 1.0.0.1
+
+* Add
+  * Italiano Italian (Italiano)
+    * Thank you [MattNot](https://github.com/MattNot)
+    * Localization/<it-it.cfg> v1.0.0.0
+* updates #10 - Localization - Master
+* closes #16 - Italian (Italiano) <it-it.cfg>
+
+### Status 1.0.0.1
 
 * Issues
-
+  * closes #36 - Radial Omni Separator (ROS) 1.0.0.1-release `<Separatore Radiale Omnia>`
+  * closes #37 - 1.0.0.1 Verify Legal Mumbo Jumbo
+  * closes #38 - 1.0.0.1 Update Documentation
+  * closes #39 - 1.0.0.1 Update Social Media
 ---
 
 ## Version 1.0.0.0-release - `<Thank you nli2work>`
@@ -88,9 +103,9 @@
   * [404.md] v1.0.3.2
   * [LegalMumboJumbo.md] v1.0.5.1
   * [Localizations.md] v1.1.7.0
-  * [Marketing.md] v1.0.1.0
-  * [Notices.md] v1.0.1.0
-  * [Disclaimer.md] v1.0.1.0
+  * [Marketing.md] v1.0.0.1
+  * [Notices.md] v1.0.0.1
+  * [Disclaimer.md] v1.0.0.1
   * [PartsCatalog.md] v1.1.4.1
   * [Why.md] v1.1.0.0
   * closes #5 - Create GitHub Pages
