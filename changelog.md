@@ -34,7 +34,7 @@
 ### Status 1.0.0.1
 
 * Issues
-  * closes #36 - Radial Omni Separator (ROS) 1.0.0.1-release `<Separatore Radiale Omnia>`
+  * closes #36 - Radial Omni Separator (ROS) 1.0.0.1-release `<MattNot Separatore Radiale Omnia>`
   * closes #37 - 1.0.0.1 Verify Legal Mumbo Jumbo
   * closes #38 - 1.0.0.1 Update Documentation
   * closes #39 - 1.0.0.1 Update Social Media
