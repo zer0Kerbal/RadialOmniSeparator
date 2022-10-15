@@ -53,6 +53,7 @@ updated: 03 Jun 2022
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:125%;" /> English</li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png " alt="Italiano" style="zoom:125%;" /> Italian (Italiano) - thank you <a ref="https://github.com/MattNot"> MattNot</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:125%;" /> Norwegian (Norsk) - thank you <a ref="https://github.com/tplive"> tplive</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
