@@ -22,6 +22,38 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3129)                                 |
 | ckan       | RadialOmniSeparator                                               |
 
+## Version 1.0.0.2-release - `<tplive>` edition
+
+* 15 Oct 2021
+* Released for Kerbal Space Program 1.12.3
+
+### Summary 1.0.0.2
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - thank you <a ref="https://github.com/MattNot"> MattNot</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:100%;" /> Norwegian (Norsk) - thank you <a ref="https://github.com/tplive"> tplive</a></li>
+</ul>
+
+### Localization 1.0.0.2
+
+* Add
+  * Norwegian (Norsk)
+    * Thank you [tplive](https://github.com/tplive)
+    * Localization/<no-no.cfg> v1.0.0.0
+* updates #10 - Localization - Master
+* closes #23 - Norwegian (Norsk) <no-no.cfg>
+
+### Status 1.0.0.2
+
+* Issues
+  * closes #43 - Radial Omni Separator (ROS) 1.0.0.2-release `<tplive>`
+  * closes #44 - 1.0.0.2 Verify Legal Mumbo Jumbo
+  * closes #45 - 1.0.0.2 Update Documentation
+  * closes #46 - 1.0.0.2 Update Social Media
+
+---
+
 ## Version 1.0.0.1-release - `<MattNot Separatore Radiale Omnia>`
 
 * 05 Oct 2021
@@ -37,7 +69,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Localization 1.0.0.1
 
 * Add
-  * Italiano Italian (Italiano)
+  * Italian (Italiano)
     * Thank you [MattNot](https://github.com/MattNot)
     * Localization/<it-it.cfg> v1.0.0.0
 * updates #10 - Localization - Master
