@@ -10,6 +10,33 @@
 | spacedock  | (https://spacedock.info/mod/3129)                                 |
 | ckan       | RadialOmniSeparator                                               |
 
+## Version 1.0.0.2-release - `<tplive>`
+
+* 15 Oct 2021
+* Released for Kerbal Space Program 1.12.3
+
+### Summary 1.0.0.2
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - thank you <a ref="https://github.com/MattNot"> MattNot</a></li>
+</ul>
+
+### Localization 1.0.0.2
+
+* Add
+  * Italiano Italian (Italiano)
+    * Thank you [MattNot](https://github.com/MattNot)
+    * Localization/<it-it.cfg> v1.0.0.0
+* updates #10 - Localization - Master
+* closes #16 - Italian (Italiano) <it-it.cfg>
+
+### Status 1.0.0.2
+
+* Issues
+
+---
+
 ## Version 1.0.0.1-release - `<MattNot Separatore Radiale Omnia>`
 
 * 05 Oct 2021
