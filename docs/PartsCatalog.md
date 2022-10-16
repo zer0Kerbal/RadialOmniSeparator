@@ -19,7 +19,7 @@ updated: 30 Sep 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds six (6) radially attached separator parts
 
 ---
 
