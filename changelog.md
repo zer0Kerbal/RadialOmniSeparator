@@ -10,9 +10,37 @@
 | spacedock  | (https://spacedock.info/mod/3129)                                 |
 | ckan       | RadialOmniSeparator                                               |
 
+## Version 1.0.0.3-release - `<taicoding Español>` edition
+
+* 18 Oct 2022
+* Released for Kerbal Space Program 1.12.3
+
+### Summary 1.0.0.3
+
+adds <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png " alt="Español" style="zoom:100%;" /> Spanish (Español) - thank you <a ref="https://github.com/taicoding"> taicoding</a>
+
+### Localization 1.0.0.3
+
+* Add
+  * Spanish (Español)
+    * Localization/<es-es.cfg> v1.0.0.0
+    * Thank you [taicoding](https://github.com/taicoding)
+* updates #10 - Localization - Master
+* closes #14 - Spanish (Español) <es-es.cfg>
+
+### Status 1.0.0.3
+
+* Issues
+  * closes #50 - Radial Omni Separator (ROS) 1.0.0.3-release `<taicoding Español>`
+  * closes #51 - 1.0.0.3 Verify Legal Mumbo Jumbo
+  * closes #52 - 1.0.0.3 Update Documentation
+  * closes #53 - 1.0.0.3 Update Social Media
+
+---
+
 ## Version 1.0.0.2-release - `<tplive>` edition
 
-* 15 Oct 2021
+* 15 Oct 2022
 * Released for Kerbal Space Program 1.12.3
 
 ### Summary 1.0.0.2
@@ -44,7 +72,7 @@
 
 ## Version 1.0.0.1-release - `<MattNot Separatore Radiale Omnia>`
 
-* 05 Oct 2021
+* 05 Oct 2022
 * Released for Kerbal Space Program 1.12.3
 
 ### Summary 1.0.0.1
@@ -75,7 +103,7 @@
 
 ## Version 1.0.0.0-release - `<Thank you nli2work>`
 
-* 01 Oct 2021
+* 01 Oct 2022
 * Released for Kerbal Space Program 1.12.3
 
 ### Summary 1.0.0.0
