@@ -47,8 +47,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
+>* ![Español][ES] Spanish (Español) - thank you [taicoding](https://github.com/taicoding)
 >* ![Italiano][IT] Italian (Italiano) - thank you [MattNot](https://github.com/MattNot)
->* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg> - thank you [tplive](https://github.com/tplive)
+>* ![Norsk][NO] Norwegian (Norsk) - thank you [tplive](https://github.com/tplive)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
