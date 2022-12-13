@@ -28,14 +28,14 @@ This add-on adds six (6) radially attached separator parts
   * 0.625m (size 0)
   * 1.25m (size 1)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/%40thumbs/radialomniseparator-003125_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/%40thumbs/radialomniseparator-00625_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/%40thumbs/radialomniseparator-0125_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/thumbs/radialomniseparator-003125_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/thumbs/radialomniseparator-00625_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/thumbs/radialomniseparator-0125_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> 
 
 * Radial Omni Separator
   * 1.875m (size 1p5)
   * 2.50m (size 2)
   * 3.75m (size 3)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/%40thumbs/radialomniseparator-01875_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/%40thumbs/radialomniseparator-0250_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/%40thumbs/radialomniseparator-0375_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/thumbs/radialomniseparator-01875_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/thumbs/radialomniseparator-0250_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialOmniSeparator/master/docs/thumbs/radialomniseparator-0375_icon.png" alt="Radial Omni Separator" width="25%" height="25%" /> 
 
 ---
 
