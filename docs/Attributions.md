@@ -51,10 +51,11 @@ updated: 03 Jun 2022
 ### Translations
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:125%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png " alt="Español" style="zoom:125%;" /> Spanish (Español) - thank you <a ref="https://github.com/taicoding"> taicoding</a></li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png " alt="Italiano" style="zoom:125%;" /> Italian (Italiano) - thank you <a ref="https://github.com/MattNot"> MattNot</a></li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:125%;" /> Norwegian (Norsk) - thank you <a ref="https://github.com/tplive"> tplive</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png " alt="Português Brasil" style="zoom:100%;" /> Brazilian Portuguese (Português Brasil) - thank you <a ref="https://github.com/Lisias"> Lisias</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png " alt="Español" style="zoom:100%;" /> Spanish (Español) - thank you <a ref="https://github.com/taicoding"> taicoding</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - thank you <a ref="https://github.com/MattNot"> MattNot</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:100%;" /> Norwegian (Norsk) - thank you <a ref="https://github.com/tplive"> tplive</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
