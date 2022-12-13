@@ -29,6 +29,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See more
 
+>* [Simple demo](https://youtu.be/sQXxqdmwrxo)
 >* [GitHub Pages][MOD:pages]
 >* [Marketing Slicks][MOD:markt]
 >* [Parts Catalog][MOD:parts] for part pictures
