@@ -3,12 +3,45 @@
 | modName    | Radial Omni Separator (ROS)                                       |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC BY-NC-SA 4.0                                                   |
-| author     | zer0Kerbal                                                        |
+| author     | nli2work and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/) |
 | github     | (https://github.com/zer0Kerbal/RadialOmniSeparator)               |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RadialOmniSeparator)  |
 | spacedock  | (https://spacedock.info/mod/3129)                                 |
 | ckan       | RadialOmniSeparator                                               |
+
+## Version 1.0.0.4-release - `<Separador Radial Omni>` edition
+
+* Released
+  * 12 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+## Summary 1.0.0.4
+
+NEW <img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png " alt="Português Brasil" style="zoom:100%;" /> Brazilian Portuguese (Português Brasil) - thank you <a ref="https://github.com/Lisias"> Lisias</a>
+
+* Add
+  * Brazilian Portuguese (Português Brasil)
+    * Localization/<pt-br.cfg> v1.0.0.0
+    * Thank you [Lisias](https://github.com/Lisias)
+  * updates #10 - Localization - Master
+  * closes #12 - Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+* Update
+  * textures from .png (393kb) --> .dds (341kb)
+  * model texture pointers
+
+### Status 1.0.0.4
+
+* Issues
+  * closes #56 - Radial Omni Separator (ROS) 1.0.0.4-release `<Separador Radial Omni>` edition
+  * closes #57 - 1.0.0.4 Additional Tasks
+  * closes #34 - 1.0.1.0 Update Social Media
+  * closes #33 - 1.0.1.0 Update Documentation
+  * closes #32 - 1.0.1.0 Verify Legal Mumbo Jumbo
+  * closes #31 - Radial Omni Separator (ROS) 1.0.1.0-release `<EDITION>`
+
+---
 
 ## Version 1.0.0.3-release - `<taicoding Español>` edition
 
