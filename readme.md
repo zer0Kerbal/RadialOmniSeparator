@@ -47,6 +47,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
+>* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) - thank you [Lisias](https://github.com/Lisias)
 >* ![Español][ES] Spanish (Español) - thank you [taicoding](https://github.com/taicoding)
 >* ![Italiano][IT] Italian (Italiano) - thank you [MattNot](https://github.com/MattNot)
 >* ![Norsk][NO] Norwegian (Norsk) - thank you [tplive](https://github.com/tplive)
